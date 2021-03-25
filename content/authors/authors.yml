@@ -1,6 +1,6 @@
 - name: Hakan Oner
   avatar: ./avatars/dennis-brotzky.jpg
-  featured: false
+  featured: true
   social:
     - url: 'https://food-traders.com'
     - url: 'https://stackoverflow.com'
